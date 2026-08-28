@@ -1,0 +1,22 @@
+# Virtual environment
+inferenv/
+
+# Runtime logs
+hailort.log
+hailort.1.log
+*.log
+
+# Vendor driver installer (link it in README instead)
+hailort-pcie-driver_*.deb
+
+# Sample/test images — may contain identifiable people
+annotated.jpg
+latest_frame.jpg
+test_image.jpg
+*.jpg
+*.jpeg
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
